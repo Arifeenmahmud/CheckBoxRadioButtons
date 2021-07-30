@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CheckBoxRadioButtons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CheckBoxRadioButtons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
